@@ -13,10 +13,10 @@ Welcome to my journey of #100DaysOfCode! This is where I'll be documenting my da
 
 | Day  | Date       | Summary of Work Done                                                                                 | Links/Notes |
 |------|------------|------------------------------------------------------------------------------------------------------|-------------|
-| Day 1| 2024-09-25 | [Today, I set the foundation for my #100DaysOfCode challenge by working on JavaScript basics and setting up my development environment. I configured essential tools like Git for version control and ESLint for code quality. I also began working on a dynamic blog project where tags and authors are generated from data-attributes, ensuring cleaner HTML. Additionally, I learned how to manage dependencies using NPM and practiced integrating Prettier for code formatting.]       | [Link to code/project] |
-| Day 2| YYYY-MM-DD |                                                                                                      |             |
 | Day 3| YYYY-MM-DD |                                                                                                      |             |
 
+| Day 2| 2024-09-26 | Today, I refactored the generateTags function to eliminate duplicate code and improve efficiency. I also fixed event listener bindings for both tags and authors, ensuring proper interaction when filtering articles. The titleClickHandler function was enhanced for better link activation and article display management. After these changes, I successfully tested the dynamic tag and author filtering system to confirm everything works smoothly.                                                                                                     |             |
+| Day 1| 2024-09-25 | Today, I set the foundation for my #100DaysOfCode challenge by working on JavaScript basics and setting up my development environment. I configured essential tools like Git for version control and ESLint for code quality. I also began working on a dynamic blog project where tags and authors are generated from data-attributes, ensuring cleaner HTML. Additionally, I learned how to manage dependencies using NPM and practiced integrating Prettier for code formatting.       | [Link to code/project] |
 ...
 
 ## Milestones 🏆
@@ -38,6 +38,6 @@ Here I will share any major takeaways, reflections, or thoughts as I progress th
 
 ---
 
-_Started on [Start Date]_  
+_Started on 25/09/2024  
 _You can follow my journey on GitHub, Twitter, etc._
 
